@@ -1,2 +1,2 @@
-# Front-End-Developer-Capstone-Coursera
-Little Lemon Restaurant Website - with React
+# Backend-End-Developer-Capstone-Coursera
+Little Lemon API
